@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kiz </h1>
-<h3 align="center">A passionate Full-stack Developer from New Zealand</h3>
+<h3 align="center">A Full-stack Developer from New Zealand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
